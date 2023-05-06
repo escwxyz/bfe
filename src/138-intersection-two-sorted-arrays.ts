@@ -1,3 +1,4 @@
+// https://bigfrontend.dev/problem/intersection-of-two0-sorted-Arrays
 export function intersect(arr1: number[], arr2: number[]): number[] {
   if (!arr1 || !arr2) return []
 
